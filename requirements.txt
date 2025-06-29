@@ -1,0 +1,6 @@
+pandas>=2.0.0
+numpy>=1.20.0
+websockets>=10.0
+python-dotenv>=1.0.0
+requests>=2.25.0
+ta>=0.10.0
