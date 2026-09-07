@@ -5,7 +5,7 @@
 
 An advanced multi-timeframe volatility trading bot built in Python using asynchronous programming, pandas dataframes, and the Deriv WebSocket API. It performs breakout and confluence analysis on synthetic indices like VIX75 (R_75) in real time.
 
-## 🚀 Features
+##  Features
 
 - Multi-timeframe confluence strategy
 - Breakout detection on VIX75 / synthetic indices
@@ -15,7 +15,7 @@ An advanced multi-timeframe volatility trading bot built in Python using asynchr
 - Technical indicators with `ta-lib` and `ta` packages
 - Modular and extensible architecture
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Python 3.11+
 - pandas
@@ -25,7 +25,7 @@ An advanced multi-timeframe volatility trading bot built in Python using asynchr
 - Deriv WebSocket API
 - Telegram Bot API
 
-## 📈 How it works
+##  How it works
 
 - Collects tick data from Deriv’s WebSocket
 - Aggregates data into multiple timeframes
@@ -33,7 +33,7 @@ An advanced multi-timeframe volatility trading bot built in Python using asynchr
 - Identifies breakouts and sweeps
 - Sends real-time trade signals to Telegram
 
-## 🔒 Disclaimer
+##  Disclaimer
 
 This project is for **educational and research** purposes only. Trading synthetic indices involves substantial risk, and you are solely responsible for your trades.
 
