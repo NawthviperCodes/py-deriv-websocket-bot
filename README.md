@@ -37,7 +37,7 @@ An advanced multi-timeframe volatility trading bot built in Python using asynchr
 
 This project is for **educational and research** purposes only. Trading synthetic indices involves substantial risk, and you are solely responsible for your trades.
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repo:
    ```bash
